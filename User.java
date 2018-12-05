@@ -2,6 +2,7 @@ package com.offcn.po;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
+//qweqweqweqweqweq
 @XmlRootElement(name="user")
 public class User {
 private String userid;
